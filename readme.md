@@ -8,7 +8,7 @@
 <p align="center">
 <img src="snap/api-doc-server.png" width="90%"></p>
 
-<h2 align="center"><a href="https://famous-nasturtium-884aa6.netlify.app">👆 Click here for live demo 💻</a></h2>
+<h2 align="center"><a href="https://event-api-3biz.onrender.com/api-docs">👆 Click here for live demo 💻</a></h2>
 
 ---
 
@@ -65,7 +65,7 @@ npm run start
 # Task 2 - API documentation
 
 <p align="center">
-<img src="snap/wireframe.jpg" width="90%">Wireframe</p>
+<img src="snap/wireframe.jpg" width="100%">Wireframe</p>
 
 <br/>
 
@@ -228,5 +228,5 @@ npm run start
 ```
 <br/>
 
-<h2><a href="https://github.com/abhisheksharma1310/dt-backend-web-dev-challange/API documentation-Task2/api-doc-task2.pdf">Download Pdf for task 2 - NUDGE API Creation 👆</a></h2>
+<h2><a href="https://github.com/abhisheksharma1310/dt-backend-web-dev-challange/blob/main/API%20documentation-Task2/api-doc-task2.pdf">Download Pdf for task 2 - NUDGE API Creation 👆</a></h2>
 

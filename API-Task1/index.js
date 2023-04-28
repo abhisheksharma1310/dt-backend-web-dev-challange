@@ -39,6 +39,9 @@ const options = {
     },
     servers: [
       {
+        url: `${process.env.CAPI}`
+      },
+      {
         url: `http://localhost:${PORT}`
       }
     ]
