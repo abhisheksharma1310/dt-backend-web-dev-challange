@@ -47,8 +47,8 @@
 - Go to the project directory
 
 ```
-git clone https://github.com/abhisheksharma1310/memories_blog.git
-cd memories_blog/
+git clone https://github.com/abhisheksharma1310/dt-backend-web-dev-challange.git
+cd dt-backend-web-dev-challange/
 ```
 - Install all packages for the API server
 
@@ -228,5 +228,5 @@ npm run start
 ```
 <br/>
 
-<h2><a href="./API documentation-Task2/api-doc-task2.pdf">Download Pdf for task 2 - NUDGE API Creation 👆</a></h2>
+<h2><a href="https://github.com/abhisheksharma1310/dt-backend-web-dev-challange/API documentation-Task2/api-doc-task2.pdf">Download Pdf for task 2 - NUDGE API Creation 👆</a></h2>
 
